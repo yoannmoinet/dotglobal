@@ -1,0 +1,2 @@
+# dotglobal
+A dotconfig manager.
