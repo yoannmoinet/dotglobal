@@ -1,0 +1,24 @@
+{
+  "name": "dotglobal",
+  "version": "0.0.1",
+  "description": "A dotconfig manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoannmoinet/dotglobal.git"
+  },
+  "keywords": [
+    "config",
+    "manager",
+    "global"
+  ],
+  "author": "Yoann Moinet <yo@nnmoi.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoannmoinet/dotglobal/issues"
+  },
+  "homepage": "https://github.com/yoannmoinet/dotglobal#readme"
+}
