@@ -17,6 +17,9 @@
   ],
   "author": "Yoann Moinet <yo@nnmoi.net>",
   "license": "MIT",
+  "bin": {
+      "dotglobal": "cli.js"
+  },
   "bugs": {
     "url": "https://github.com/yoannmoinet/dotglobal/issues"
   },
